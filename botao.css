@@ -1,0 +1,10 @@
+.btnchange
+{
+	padding: 10px; 
+}
+.btnchange:hover
+{
+	color: gray;
+	background-color: purple;
+            
+}
